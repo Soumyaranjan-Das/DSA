@@ -1,0 +1,15 @@
+ #Recursion___
+ =============
+1. Print 1 to n and n to 1;
+2. Sort an array or Stack.
+3. Delete middle element in the stackc .
+4. Remove duplicates from the String .
+5. count the # of occurances.
+6. Subset .
+7. Permutation with it's variations .
+8. Josephus problem. 
+
+ #Hard__
+ ========
+1. Binary strings that have no 1's > no. 0's
+2. Generate balance paranthesis 
