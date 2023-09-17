@@ -1,4 +1,4 @@
-package recursion;
+
 
 public class PowerOptimised {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package recursion;
+
 //this class has a print function which prints 1,2,3,....,n using recursion
 public class WholenoSereis {
     public static void main(String[] args) {

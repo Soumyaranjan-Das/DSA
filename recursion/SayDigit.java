@@ -1,4 +1,3 @@
-package recursion;
 
 public class SayDigit {
     public static void main(String[] args) {

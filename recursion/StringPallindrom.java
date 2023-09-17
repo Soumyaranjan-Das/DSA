@@ -1,4 +1,4 @@
-package recursion;
+
 
 public class StringPallindrom {
  public static void main(String[] args) {

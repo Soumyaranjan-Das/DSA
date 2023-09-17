@@ -1,4 +1,4 @@
-package recursion;
+
 import java.util.ArrayList;
 public class Substrings {
     public static void main(String[] args) {
@@ -13,7 +13,6 @@ public class Substrings {
     {
         if(i==str.length())
         {
-            System.out.print(out+"\t");
             list.add(out);
             return;
         }
